@@ -16,37 +16,37 @@ document.addEventListener('DOMContentLoaded', () => {
 			id: 1,
 			nombre: 'Arañas',
 			precio: 10000,
-			imagen: '/images/img15.jpg'
+			imagen: 'images/img15.jpg'
 		},
 		{
 			id: 2,
 			nombre: 'Velas',
 			precio: 1000,
-			imagen: '/images/img13.jpg'
+			imagen: 'images/img13.jpg'
 		},
 		{
 			id: 3,
 			nombre: 'Centros de Mesa',
 			precio: 5000,
-			imagen: '/images/img17.jpg'
+			imagen: 'images/img17.jpg'
 		},
 		{
 			id: 4,
 			nombre: 'Exterior',
 			precio: 70000,
-			imagen: '/images/img12.jpg'
+			imagen: 'images/img12.jpg'
 		},
 		{
 			id: 5,
 			nombre: 'Cuadros',
 			precio: 4000,
-			imagen: '/images/img4.jpg'
+			imagen: 'images/img4.jpg'
 		},
 		{
 			id: 6,
 			nombre: 'muebles',
 			precio: 150000,
-			imagen: '/images/img7.jpg'
+			imagen: 'images/img7.jpg'
 		}
 
 	];
